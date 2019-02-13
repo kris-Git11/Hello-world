@@ -1,2 +1,2 @@
 # Hello-world
-some short description 
+just learning and teaching
